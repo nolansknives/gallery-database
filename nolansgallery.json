@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Knife1",
+        "price": "10",
+        "src": "knife1.jpg",
+        "description": "Cool knife brother"
+    },
+    {
+        "name": "Knife2",
+        "price": "20",
+        "src": [
+            "knife1.jpg",
+            "knife2.jpg"
+        ],
+        "description": "Cool knife brother"
+    },
+    {
+        "name": "Knife3",
+        "price": "30",
+        "src": [
+            "knife1.jpg",
+            "knife2.jpg"
+        ],
+        "description": "Cool knife brother"
+    },
+    {
+        "name": "Knife4",
+        "price": "40",
+        "src": "knife1.jpg",
+        "description": "Cool knife brother"
+    },
+    {
+        "name": "Knife5",
+        "price": "50",
+        "src": [
+            "knife1.jpg",
+            "knife2.jpg"
+        ],
+        "description": "Cool knife brother"
+    },
+    {
+        "name": "Knife6",
+        "price": "60",
+        "src": [
+            "knife1.jpg",
+            "knife2.jpg"
+        ],
+        "description": "Cool knife brother"
+    },
+    {
+        "name": "Knife7",
+        "price": "70",
+        "src": "knife1.jpg",
+        "description": "Cool knife brother"
+    }
+]
